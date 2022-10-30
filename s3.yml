@@ -4,7 +4,7 @@ Description: Using GitHub Actions to deploy CloudFormation stacks Demo
 
 Parameters:
   BucketName:
-    Description: Name your Bucket
+    Description: oct30
     Type: String
 
 Resources:
